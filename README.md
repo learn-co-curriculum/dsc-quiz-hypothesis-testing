@@ -16,7 +16,7 @@ While we recommend using Python to find the answers to these questions, it is no
 
 ( ) No, since it is still likely that the sample means are not different from each other.
 
-?: Consider a sample of 100 athletes who have their blood oxygen levels measured before and after going on a 30 minute run. You want to determine if mean blood oxygen levels are significantly different after the half-hour run compared to the mean blood oxygen levels before the run. What kind of hypothesis test do you need to perform? 
+?: Consider a sample of 100 athletes who have their blood oxygen levels measured before and after going on a 30 minute run. You want to determine if their mean blood oxygen levels are significantly different after the half-hour run compared to the mean blood oxygen levels before the run. What kind of hypothesis test do you need to perform? 
 
 ( ) unpaired two-tailed two-sample t-test 
 
@@ -49,15 +49,15 @@ While we recommend using Python to find the answers to these questions, it is no
 
 ( ) choice
 
-?: Question 5
+?: Select all true statements from the choices below: 
 
-[X] choice
+[X] A larger value of the significance threshold $\alpha$ increases the chances of rejecting the null hypothesis.
 
-[ ] choice
+[X] Larger values of $\alpha$ increase Type I error and decrease Type II error.
 
-[X] choice
+[ ] Smaller values of $\alpha$ increase Type I error and decrease Type II error.
 
-[ ] choice
+[X] Using small values of $\alpha$ decreases the chances of incorrectly rejecting the null hypothesis given it is actually true.
 
 
 ???
