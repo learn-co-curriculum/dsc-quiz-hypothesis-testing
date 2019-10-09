@@ -16,15 +16,16 @@ While we recommend using Python to find the answers to these questions, it is no
 
 ( ) No, since it is still likely that the sample means are not different from each other.
 
-?: Question 2
+?: Consider a sample of 100 athletes who have their blood oxygen levels measured before and after going on a 30 minute run. You want to determine if mean blood oxygen levels are significantly different after the half-hour run compared to the mean blood oxygen levels before the run. What kind of hypothesis test do you need to perform? 
 
-( ) choice
+( ) unpaired two-tailed two-sample t-test 
 
-(X) choice 
+( ) unpaired upper-tailed two-sample t-test 
 
-( ) choice
+( ) two-tailed two-sample z-test 
 
-( ) choice
+(X) paired two-sample t-test 
+
 
 ?: Question 3
 
