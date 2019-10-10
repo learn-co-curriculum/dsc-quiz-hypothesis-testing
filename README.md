@@ -47,7 +47,7 @@ What are the null and alternative hypotheses that the teacher needs to test to h
 
 `high_fat = [13.9, 12.2, 15.1, 14.6, 13.4, 11.6, 10.2, 10.1, 13.4, 14.2, 15.7, 11.7]`
 
-How would you use Python to test if the mean weight loss of the two groups was different or not?  You can assume that both populations have equal variances.
+How would you use Python to test if the mean weight loss of the two groups was different or not?  You can assume that both distributions have equal variances.
 
 ( ) Use `scipy.stats.ttest_ind_from_stats(high_protein, high_fat)`
 
