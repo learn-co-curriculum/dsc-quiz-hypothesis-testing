@@ -39,13 +39,13 @@ What are the null and alternative hypotheses that the teacher needs to test to h
 
 ( ) $H_0: \mu \neq 75$, $H_A: \mu \gt 75$
 
-?: Consider the weight loss of 25 healthy individuals between 25-34 years of age. 
+?: Consider the weight loss of 20 healthy individuals between 25-34 years of age. 
 
-13 individuals followed a high-protein diet and 12 individuals followed a high fat diet. 
+10 individuals followed a high-protein diet and 10 individuals followed a high fat diet. 
 
-`high_protein = [8.2, 8.8, 8.9, 10.9, 13.0, 11.3, 12.8, 10.6, 10.9, 6.5, 6.3, 5.9, 8.3]`
+`high_protein = [11.2, 11.4, 7.4, 10.9, 9.8, 8.7, 11.0, 9.3, 8.4, 10.9]`
 
-`high_fat = [13.9, 12.2, 15.1, 14.6, 13.4, 11.6, 10.2, 10.1, 13.4, 14.2, 15.7, 11.7]`
+`high_fat = [15.6, 14.4, 13.0, 14.1, 13.2, 13.5, 13.0, 15.6, 12.9, 12.4]`
 
 How would you use Python to test if the mean weight loss of the two groups was different or not?  You can assume that both distributions have equal variances.
 
