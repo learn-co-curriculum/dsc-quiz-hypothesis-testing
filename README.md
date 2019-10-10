@@ -27,15 +27,15 @@ While we recommend using Python to find the answers to these questions, it is no
 (X) paired two-sample t-test 
 
 
-?: Question 3
+?: A teacher wants to know if her students have a good grasp of basic statistics. Seven students are chosen at random from her class and given a statistics proficiency test. The teacher wants the class to score above 75 on her test. What are the null and alternative hypotheses that the teacher needs to test to have 95% confidence that the mean score for the class on the test would be greater than 75? 
 
-[X] choice
+( ) $H_0: \mu = 75$, $H_A: \mu \lt 75$ 
 
-[X] choice
+( ) $H_0: \mu \neq 75$, $H_A: \mu = 75$
 
-[ ] choice
+(X) $H_0: \mu = 75$, $H_A: \mu \gt 75$
 
-[X] choice
+( ) $H_0: \mu \neq 75$, $H_A: \mu \gt 75$
 
 ?: Question 4
 
