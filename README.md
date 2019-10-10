@@ -27,9 +27,7 @@ While we recommend using Python to find the answers to these questions, it is no
 (X) paired two-sample t-test 
 
 
-?: A teacher wants to know if her students have a good grasp of basic statistics. Seven students are chosen at random from her class and given a statistics proficiency test. The teacher wants the class to score above 75 on her test. 
-
-What are the null and alternative hypotheses that the teacher needs to test to have 95% confidence that the mean score for the class on the test would be greater than 75? 
+?: A teacher wants to know if her students have a good grasp of basic statistics. Seven students are chosen at random from her class and given a statistics proficiency test. The teacher wants the class to score above 75 on her test. What are the null and alternative hypotheses that the teacher needs to test to have 95% confidence that the mean score for the class on the test would be greater than 75? 
 
 ( ) $H_0: \mu = 75$, $H_A: \mu \lt 75$ 
 
@@ -39,9 +37,7 @@ What are the null and alternative hypotheses that the teacher needs to test to h
 
 ( ) $H_0: \mu \neq 75$, $H_A: \mu \gt 75$
 
-?: Consider the weight loss of 20 healthy individuals between 25-34 years of age. 
-
-10 individuals followed a high-protein diet and 10 individuals followed a high fat diet. 
+?: Consider the weight loss of 20 healthy individuals between 25-34 years of age. 10 individuals followed a high-protein diet and 10 individuals followed a high fat diet. 
 
 `high_protein = [11.2, 11.4, 7.4, 10.9, 9.8, 8.7, 11.0, 9.3, 8.4, 10.9]`
 
