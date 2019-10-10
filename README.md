@@ -39,17 +39,22 @@ What are the null and alternative hypotheses that the teacher needs to test to h
 
 ( ) $H_0: \mu \neq 75$, $H_A: \mu \gt 75$
 
-?: Question 4
+?: Consider the weight loss of 25 healthy individuals between 25-34 years of age. 
 
-( ) choice
+13 individuals followed a high-protein diet and 12 individuals followed a high fat diet. 
 
-(X) choice
+`high_protein = [8.2, 8.8, 8.9, 10.9, 13.0, 11.3, 12.8, 10.6, 10.9, 6.5, 6.3, 5.9, 8.3]`
 
-( ) choice
+`high_fat = [13.9, 12.2, 15.1, 14.6, 13.4, 11.6, 10.2, 10.1, 13.4, 14.2, 15.7, 11.7]`
 
-( ) choice
+How would you use Python to test if the mean weight loss of the two groups was different or not?  You can assume that both populations have equal variances.
 
-( ) choice
+( ) Use `scipy.stats.ttest_ind_from_stats(high_protein, high_fat)`
+
+(X) Use `scipy.stats.ttest_ind(high_protein, high_fat)` 
+
+( ) Use `scipy.stats.ttest_1samp(high_protein, high_fat)`
+
 
 ?: Select all true statements from the choices below: 
 
