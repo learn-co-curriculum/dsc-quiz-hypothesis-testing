@@ -9,7 +9,14 @@ While we recommend using Python to find the answers to these questions, it is no
 ?: Question 1
 
 
-You are asked to run a hypothesis test to test whether two sample means are different from each other or not. Your null hypothesis is that there is no difference in the sample means. Your alternative hypothesis is that the sample means are different from each other. You run the test and find a p-value of 0.01. Do you reject the null hypothesis?
+|   user_id | city      | state   |
+|-----------|-----------|---------|
+|         1 | New York  | NY      |
+|         2 | Boston    | MA      |
+|         3 | Cambridge | MA      |
+|         4 | New York  | NY      |
+
+You are askedto run a hypothesis test to test whether two sample means are different from each other or not. Your null hypothesis is that there is no difference in the sample means. Your alternative hypothesis is that the sample means are different from each other. You run the test and find a p-value of 0.01. Do you reject the null hypothesis?
 
 ( ) Yes, since the p-value is less than 0.05.
 
